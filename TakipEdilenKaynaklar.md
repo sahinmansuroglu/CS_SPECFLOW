@@ -1,3 +1,5 @@
+bu video 2 saatlik yeni tam proje https://www.youtube.com/watch?v=sa-42un6ETg
+
 https://www.youtube.com/watch?v=kdJDoCX1uP0&list=PL6tu16kXT9PqcGCrFRw7mBFdqwG7x7Kcz
 https://github.com/SpecFlowOSS/SpecFlow-Examples
 
